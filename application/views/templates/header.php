@@ -59,7 +59,7 @@
             <span>
             <iconify-icon  class="fs-6"></iconify-icon>
             </span>
-            <span class="hide-menu">My Outlet</span>
+            <span class="hide-menu">Penjualan&Mitra</span>
         </a>
         </li>
         <li class="sidebar-item">
